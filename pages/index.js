@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to ryuyaF's next-tutorial App!
+          Welcome to ryuyaF&apos;s next-tutorial App!
         </h1>
 
         <p className={styles.description}>
